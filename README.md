@@ -44,5 +44,10 @@ Run application:
 Runs the app in the development mode at [http://localhost:8080].
 
 
+### Git commits:
+
+The assignment related git commits have been done in gomoku-service folder.
+
+
 
 
