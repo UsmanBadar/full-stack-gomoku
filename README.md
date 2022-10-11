@@ -4,7 +4,7 @@ This program is a web application of Gomoku game including:
 1. User authentication with JSON web token
 2. Ability to set Board width
 3. Gomoku game
-4. Previous games saved in database
+4. Previous games saved in MongoDB database
 5. A read only view of previous game board
 
 
