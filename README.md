@@ -7,6 +7,7 @@ This program is a web application of Gomoku game including:
 4. Previous games saved in MongoDB database
 5. A read only view of previous game board
 
+## Configuration for database is not included in this project.
 
 ### Client-Side:
 
