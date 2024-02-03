@@ -1,0 +1,19 @@
+.square{
+    width: 2rem;
+    height: 2rem;
+    border: 1px solid #cccbc8;
+    margin: 2.5px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.available{
+    background-color: #cccbc8;
+}
+
+.white{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}

@@ -1,0 +1,70 @@
+
+.gameContainer{
+  display: flex;
+  flex-direction: column;
+  margin: 2rem auto;
+  gap: 20px;
+  align-items: center;
+  
+}
+
+.gameMessage{
+  display: flex;
+  width: 600px;
+  text-align: center;
+}
+
+.gameBoard{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    flex-grow: 1.5;
+}
+
+.gameRow{
+  display: flex;
+  flex-direction: row; 
+  background-color: yellow;
+}
+
+.gameButtons{
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+
+.gameButtonLeave{
+   margin: 30px;
+   
+   
+}
+
+.gameButtonReset{
+  
+  margin: 30px;
+  
+  
+}
+
+.completed{
+  pointer-events: none;
+}
+
+.loading{
+  pointer-events: none;
+}
+
+button{
+  height: 2rem;
+  width: 5rem;
+  color: white;
+  background-color: #4F58DF;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+
+
+

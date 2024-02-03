@@ -1,0 +1,26 @@
+.gameLog{
+    display: flex;
+    width: 600px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem auto;
+    border: 2px solid blue;
+    background-color: blue;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+    justify-content: space-between;
+}
+.gameLogMsg{
+    color: white;
+    font-weight: bold;
+}
+
+.gameLogButton{
+    height: 3.5rem;
+    width: 7rem;
+    font-weight: bold;
+    background-color: #4F58DF;
+
+}

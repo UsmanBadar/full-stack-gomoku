@@ -1,0 +1,34 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+
+# Dependencies
+node_modules/
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# Environment variables
+.env
+
+# Production build files
+/build/
+
+# dependencies
+gomoku-react/npm-debug.log*
+gomoku-react/yarn-debug.log*
+gomoku-react/yarn-error.log*
+gomoku-service/dist/
+
+
+# testing
+gomoku-react/coverage
+
+# production
+gomoku-react/build
+
+# Postman file
+gomoku-service.postman_collection.json
+
+# misc
+.DS_Store
+

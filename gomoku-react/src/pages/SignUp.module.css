@@ -1,0 +1,22 @@
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    max-width: 900px;
+    margin: 2rem auto;
+  }
+
+  .inputMessage{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 800px;
+    margin-left: 15px;
+    text-align: center;
+  }
+
+  .inputForm{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 800px;
+  }
